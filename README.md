@@ -47,16 +47,18 @@ Este proyecto es un clon de una aplicación de ecommerce utilizando el stack MER
 ```json
 {
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.12.3",
-    "dotenv": "^10.0.0",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
-    "cookie-parser": "^1.4.5",
-    "morgan": "^1.10.0",
-    "helmet": "^4.6.0"
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.1",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^3.1.7"
   }
 }
 ```
