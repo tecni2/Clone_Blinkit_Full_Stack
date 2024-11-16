@@ -1,1 +1,1 @@
-# Proyecto ecommerce clon
+# Proyecto Ecommerce Clon
