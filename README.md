@@ -102,7 +102,7 @@ Este proyecto es un clon de una aplicación de ecommerce utilizando el stack MER
 
 2. Inicia el servidor frontend:
    ```bash
-    cd ../frontend
+    cd frontend
     npm start
    ```
 
