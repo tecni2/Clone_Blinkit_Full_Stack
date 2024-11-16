@@ -30,10 +30,11 @@ app.use(
 // Definición del puerto
 const PORT = process.env.PORT || 8080;
 
+// Ruta principal para verificar el estado del servidor
 app.get("/", (request, response) => {
-  // server to cliente
+  // Respuesta del servidor al cliente
   response.json({
-    message: `Sever is running ${PORT}`,
+    message: `Server is running on port ${PORT}`, // Mensaje indicando que el servidor está en funcionamiento
   });
 });
 
