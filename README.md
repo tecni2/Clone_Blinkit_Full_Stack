@@ -11,7 +11,7 @@ Este proyecto es un clon de una aplicación de ecommerce utilizando el stack MER
   - React
   - Redux
   - Axios
-  -
+  - Tailwind
 
 - **Backend**:
 
